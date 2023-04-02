@@ -1,4 +1,4 @@
-# Strogonoff de Frango
+# Lasanha de frango
 
 ### Ingredientes:
 
@@ -19,5 +19,3 @@
 - batata palha
   
   
-
-
